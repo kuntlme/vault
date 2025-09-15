@@ -1,0 +1,1 @@
+Ledger like unique id in currency

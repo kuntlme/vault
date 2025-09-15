@@ -1,0 +1,29 @@
+---
+tags:
+  - atom
+  - book
+Topics:
+  - Self Development
+---
+- Big Magic — Elizabeth Gilbert
+- Shoe Dog — Phil Knight
+- Can’t Hurt Me — David Goggins
+- Mating in Captivity — Esther Perel
+- The Courage to Be Disliked — Ichiro Kishimi & Fumitake Koga
+- Meditations — Marcus Aurelius
+- Principles — Ray Dalio
+- The Burnout Society — Byung-Chul Han
+- The Course of Love — Alain de Botton
+- The Trial — Franz Kafka
+- Transcend — Scott Barry Kaufman
+- Crime and Punishment — Fyodor Dostoevsky
+- Flow — Mihaly Csikszentmihalyi
+- Bird by Bird — Anne Lamott
+- The Happiness Hypothesis — Jonathan Haidt
+- The Stranger — Albert Camus
+- The Evolving Self — Robert Kegan
+- Four Thousand Weeks — Oliver Burkeman
+- The Pathless Path — Paul Millerd
+- The Road Less Traveled — M. Scott Peck
+- The Inner Game of Tennis — Timothy Gallwey
+- Thinking in Systems — Donella Meadows

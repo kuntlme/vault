@@ -1,0 +1,1 @@
+my own thought on a topic 

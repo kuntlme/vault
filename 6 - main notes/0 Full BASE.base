@@ -1,0 +1,37 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.backlinks
+      - file.basename
+      - file.ctime
+      - file.embeds
+      - file.ext
+      - file.folder
+      - file.fullname
+      - file.links
+      - file.mtime
+      - file.name
+      - file.path
+      - file.size
+      - file.tags
+      - cssclasses
+      - excalidraw-plugin
+      - kanban-plugin
+      - tags
+      - status
+    columnSize:
+      file.embeds: 563
+  - type: cards
+    name: View
+    cardSize: 180
+    image: note.kanban-plugin
+    imageFit: ""
+    imageAspectRatio: 0.25
+  - type: table
+    name: View 2
+  - type: cards
+    name: View 3
+    image: note.kanban-plugin
+  - type: cards
+    name: View 4

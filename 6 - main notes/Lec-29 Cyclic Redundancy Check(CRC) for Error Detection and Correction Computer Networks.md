@@ -1,0 +1,2 @@
+![[Pasted image 20250519104011.png]]![[Pasted image 20250519104341.png]]![[Pasted image 20250519104355.png]]![[Pasted image 20250519104449.png]]![[Pasted image 20250519104545.png]]
+efficiency = 10 /14 * 100

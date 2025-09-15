@@ -1,0 +1,1 @@
+![[Pasted image 20250523165815.png]]bridge has buffer so low colision happend

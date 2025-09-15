@@ -1,0 +1,1 @@
+![[Pasted image 20250523170704.png]]Layer 3 switches - routers
