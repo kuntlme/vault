@@ -16,5 +16,5 @@ Even if we are right and the other person is definitely wrong, we only destroy e
  I have no right to say or do anything that diminishes a man in his own eyes. What matters is not what I think of him, but what he thinks of himself. Hurting a man is his dignity is a crime.
 
 ### Principle:
-Let the other person save face.# Content -
+Let the other person save face.
 

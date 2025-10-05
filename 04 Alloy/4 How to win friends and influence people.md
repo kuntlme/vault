@@ -28,28 +28,17 @@ Topics:
 ## Principles
 
 1. **The only way to get the best of an argument is to avoid it.**
-
 2. **Show respect for the other person's opinions.**  
-   *Never say, "You're wrong."*
-
+   _Never say, "You're wrong."_
 3. **If you are wrong, admit it quickly and emphatically.**
-
 4. **Begin in a friendly way.**
-
 5. **Get the other person saying "yes, yes" immediately.**
-
 6. **Let the other person do a great deal of the talking.**
-
 7. **Let the other person feel that the idea is his or hers.**
-
 8. **Try honestly to see things from the other person's point of view.**
-
 9. **Be sympathetic with the other person's ideas and desires.**
-
 10. **Appeal to the nobler motives.**
-
 11. **Dramatize your ideas.**
-
 12. **Throw down a challenge.**
 
 # PART 4: Be A Leader: How To Change People Without Giving Offense OR Arousing Resentment
@@ -59,3 +48,5 @@ Topics:
 [[Talk about Your Own Mistake First]]
 [[No One Likes to Orders]]
 [[Let the Other Person Save Face]]
+[[How to Spur People on to Success]]
+[[Give a Dog a Good Name]]
