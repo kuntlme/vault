@@ -1,7 +1,10 @@
 ---
+aliases:
 tags:
-  - fleetingnote
-  - alloy
+  - molecule
+  - coding
+Topics:
+  - TypeScript
 ---
 [[Debugging tool of typescript]]
 [[type alias]]
