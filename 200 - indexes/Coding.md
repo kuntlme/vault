@@ -9,6 +9,7 @@
 ## [[UI library]]
 
 ## [[cohort web3 slide list]]
+### [[cohort devops slide link]]
 
 ## [[Advance]]
 ## [[Generative AI]]

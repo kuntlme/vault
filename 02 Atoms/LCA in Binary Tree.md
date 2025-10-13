@@ -1,6 +1,5 @@
 ---
 tags:
-  - fleetingnote
   - atom
   - coding
 Topics:
